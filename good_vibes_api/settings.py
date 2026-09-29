@@ -41,6 +41,10 @@ INSTALLED_APPS = [
     'rest_framework',
     # Aplicación encargada del registro y autenticación de usuarios.
     'usuarios',
+    'citas',
+    'observaciones',
+    'meditaciones',
+    'notificaciones',
 ]
 
 MIDDLEWARE = [
